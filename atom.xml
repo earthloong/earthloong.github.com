@@ -4,7 +4,7 @@
   <subtitle><![CDATA[明日征程]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-10-17T03:33:38.000Z</updated>
+  <updated>2015-10-17T05:00:40.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hexo系列（二）：安装和配置]]></title>
+    <link href="http://yoursite.com/2015/10/17/Hexo%E7%B3%BB%E5%88%97%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE%20-%203/"/>
+    <id>http://yoursite.com/2015/10/17/Hexo系列（二）：安装和配置 - 3/</id>
+    <published>2015-10-17T05:00:40.000Z</published>
+    <updated>2015-10-17T05:00:40.000Z</updated>
+    <content type="html"><![CDATA[<p>本篇主要介绍Hexo如何安装、使用，以及配置文件。</p>
+<h2 id="操作指南">操作指南</h2><h3 id="系统环境">系统环境</h3><pre><code>$ hexo <span class="keyword">new</span> <span class="string">"My New Post"</span>
+</code></pre><h3 id="安装Hexo">安装Hexo</h3><p>1    新建一个文件夹，例如blog。<br>2    进入blog文件夹，右键点击Git Bash Here。<br>3    安装Hexo<br>    npm install hexo-cli -g<br>4    初始化blog文件夹<br>    npm init<br>5    安装依赖和插件<br>    npm install<br>6    启动服务器进行本地预览<br>    hexo s</p>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>本篇主要介绍Hexo如何安装、使用，以及配置文件。</p>
+<h2 id="操作指南">操作指南</h2><h3 id="系统环境">系统环境</h3><pre><code>$ hexo <span class="keyword">new</span> <span clas]]>
+    </summary>
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="学习" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
