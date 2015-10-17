@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[静待哲思]]></title>
+  <subtitle><![CDATA[明日征程]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-10-17T03:33:38.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[Steve Axes]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2015/10/17/hello-world/"/>
+    <id>http://yoursite.com/2015/10/17/hello-world/</id>
+    <published>2015-10-17T03:33:38.000Z</published>
+    <updated>2015-10-17T03:33:38.000Z</updated>
+    <content type="html"><![CDATA[<p>新的开始，通过以下命令可以创建新的文章并发布至你的github上.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="创建一个新的文章">创建一个新的文章</h3><pre><code>$ hexo <span class="keyword">new</span> <span class="string">"My New Post"</span>
+</code></pre><p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="运行服务">运行服务</h3><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`$ hexo server</span><br></pre></td></tr></table></figure>
+<p>`<br>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="静态化处理">静态化处理</h3><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>`<br>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="发布至远程站点（github）">发布至远程站点（github）</h3><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>`<br>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>新的开始，通过以下命令可以创建新的文章并发布至你的github上.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="创建一个新的文章">创建一个新的文章</h3><pre><code>$ hexo <span class="]]>
+    </summary>
+    
+      <category term="日记" scheme="http://yoursite.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[My New Post]]></title>
+    <link href="http://yoursite.com/2015/10/16/My-New-Post/"/>
+    <id>http://yoursite.com/2015/10/16/My-New-Post/</id>
+    <published>2015-10-16T14:18:36.000Z</published>
+    <updated>2015-10-16T14:18:36.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+</feed>
